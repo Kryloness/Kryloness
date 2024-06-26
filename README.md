@@ -2,8 +2,6 @@
 
 Eu sou estudante de Tecnologia da Informação/Segurança da Informação.
 
-- 🌱 Buscando sempre adquirir conhecimentos e progredir de acordo.
-
 <!--
 <a target="_blank" href="https://www.linkedin.com/in/yuri-nazareno">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
