@@ -1,4 +1,5 @@
 - Olá, meu nome é Yuri 👋
+
 Eu sou estudante de Tecnologia da Informação/Segurança da Informação.
 
 - 🌱 Buscando sempre adquirir conhecimentos e progredir de acordo.
