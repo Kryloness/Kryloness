@@ -1,6 +1,6 @@
 - Olá, meu nome é Yuri 👋
 
-Eu sou estudante de Tecnologia da Informação/Segurança da Informação.
+Eu sou estudante de Engenharia de Software/Segurança da Informação.
 
 <!--
 <a target="_blank" href="https://www.linkedin.com/in/yuri-nazareno">
